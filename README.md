@@ -58,7 +58,7 @@ This script should run (without external dependencies) within a Python 3.6+ envi
 ## Testing
 
 The following generates sample numbered test images. From a UNIX-based shell (assumes [ImageMagick][imagemagick]
-installed, and bash-like shell...
+installed, and bash-like shell)...
 
 ```
 mkdir test
